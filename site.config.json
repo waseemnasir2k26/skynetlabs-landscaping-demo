@@ -1,0 +1,280 @@
+{
+  "brand": {
+    "name": "SkynetLabs Garden Design Demo",
+    "tagline": "Estate gardens for Greenwich and Fairfield County"
+  },
+  "niche": "landscaping",
+  "niche_label": "Landscaping + Garden Design",
+  "location": {
+    "city": "Greenwich",
+    "region": "CT",
+    "country": "US"
+  },
+  "owner": {
+    "name": "Waseem Nasir",
+    "agency": "SkynetLabs",
+    "fiverr_url": "https://www.fiverr.com/agencies/skynetjoellc",
+    "hub_url": "https://skynetjoe.com",
+    "contact_email": "waseembali2k26@gmail.com",
+    "contact_phone": "+1-203-555-0334"
+  },
+  "palette": {
+    "bg": "#F1EEE7",
+    "surface": "#FFFFFF",
+    "ink": "#1F2A20",
+    "accent": "#5C6B47",
+    "detail": "#A78A5C"
+  },
+  "fonts": {
+    "display": "Cormorant Garamond",
+    "body": "Lora",
+    "mono": null
+  },
+  "dark_mode": false,
+  "hero": {
+    "kind": "cinemagraph",
+    "h1": "Gardens that *age* into the land.",
+    "sub": "Master plans for Fairfield, Westchester, and Litchfield County estates.",
+    "photo_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=1920&auto=format&fit=crop&q=80",
+    "photo_credit": "Photo by Annie Spratt on Unsplash",
+    "cinemagraph_url": null,
+    "overlay": "rgba(31,42,32,0.25)",
+    "focal_point": "center"
+  },
+  "hero_3d": null,
+  "copy": {
+    "primary_cta": "Begin a Master Plan →",
+    "primary_cta_href": "#contact",
+    "secondary_cta": "Now scheduling 2027 installations",
+    "secondary_cta_href": "tel:+12035550334",
+    "sticky_mobile_bar": "Inquire — (203) 555-0334"
+  },
+  "trust_strip": [
+    "APLD Certified Garden Designers",
+    "ASLA Member",
+    "Architectural Digest Featured",
+    "Veranda · Garden Design Magazine",
+    "ICAA Awards · Greenwich Magazine"
+  ],
+  "service_area": {
+    "primary_city": "Greenwich, CT",
+    "service_area_cities": [
+      "New Canaan, CT",
+      "Darien, CT",
+      "Westport, CT",
+      "Wilton, CT",
+      "Weston, CT",
+      "Stamford, CT",
+      "Norwalk, CT",
+      "Fairfield, CT",
+      "Southport, CT",
+      "Easton, CT",
+      "Ridgefield, CT",
+      "Bedford, NY",
+      "Pound Ridge, NY",
+      "Armonk, NY",
+      "Chappaqua, NY",
+      "Mount Kisco, NY",
+      "Briarcliff Manor, NY",
+      "Scarsdale, NY",
+      "Bronxville, NY",
+      "Larchmont, NY",
+      "Rye, NY",
+      "Mamaroneck, NY",
+      "Pelham, NY",
+      "Greenwich Village, CT",
+      "Riverside, CT",
+      "Old Greenwich, CT",
+      "Cos Cob, CT",
+      "Stamford Springdale, CT",
+      "Norwich, CT",
+      "Litchfield, CT"
+    ]
+  },
+  "services": [
+    {
+      "slug": "master-planning",
+      "title": "Master Planning",
+      "blurb": "Multi-year garden master plans for Greenwich and Fairfield County estates. We design for the property as it will exist in twenty years — not the planting day photograph. Documented planning, phased installation budgets, and architect coordination on properties under design or expansion."
+    },
+    {
+      "slug": "estate-gardens",
+      "title": "Estate Gardens",
+      "blurb": "Formal parterres, perennial borders, native woodland gardens, and kitchen gardens designed and installed for properties of two to twelve acres. Plant selection emphasizes specimen-quality material, longevity, and seasonal interest across all four New England seasons."
+    },
+    {
+      "slug": "pool-terrace",
+      "title": "Pool + Terrace Architecture",
+      "blurb": "Stone terraces, pool surrounds, garden walls, and pergola structures designed in collaboration with our partner stone yards in Pennsylvania bluestone, Connecticut fieldstone, and reclaimed hardscape materials. Construction documents stamped by our partner landscape architect when permitting requires."
+    },
+    {
+      "slug": "naturalistic-meadows",
+      "title": "Naturalistic Meadows",
+      "blurb": "Piet Oudolf-influenced perennial-and-grass meadows for properties seeking a less-formal counterpoint to the manicured lawn. Ecologically appropriate plant communities, three-year establishment programs, and ongoing stewardship to manage succession over decades."
+    },
+    {
+      "slug": "heritage-tree",
+      "title": "Heritage Tree Care",
+      "blurb": "Specialized care for established mature specimens — diagnostic assessments, soil decompaction, root-zone irrigation systems, deep-root fertilization, and structural pruning by ISA-certified arborists. Often the most-overlooked element of an estate landscape and the most consequential to its long-term value."
+    },
+    {
+      "slug": "year-round-stewardship",
+      "title": "Year-Round Stewardship",
+      "blurb": "Quarterly garden visits with our senior horticulturist, pre-season plant care, ongoing pruning calendar, and seasonal interest planning. Most clients move from the design-and-install relationship into stewardship and remain across decades. The garden becomes a continuous practice."
+    }
+  ],
+  "process": [
+    {
+      "n": 1,
+      "title": "Site visit",
+      "blurb": "On-site garden walk with the principal designer. Initial consultation runs two to three hours and is preceded by review of property surveys, prior landscape documentation, and architectural plans."
+    },
+    {
+      "n": 2,
+      "title": "Master plan",
+      "blurb": "Hand-drawn master plan with planting palettes, hardscape specifications, and phased budget across two to five years of installation. Reviewed and refined with the client before any work commences."
+    },
+    {
+      "n": 3,
+      "title": "Phased installation",
+      "blurb": "Installations executed in seasonal phases — spring planting, fall transplanting, winter hardscape — to align with horticultural best practice rather than calendar convenience."
+    },
+    {
+      "n": 4,
+      "title": "Stewardship transition",
+      "blurb": "Three-year establishment program with quarterly senior-horticulturist visits, transitioning to long-term stewardship after the garden has settled into its mature form."
+    }
+  ],
+  "case_study": {
+    "title": "11-Acre Greenwich Estate — Five-Year Master Plan",
+    "photo_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?w=1920&auto=format&fit=crop&q=80",
+    "quote": "We hired the team for a master plan and it became a five-year working relationship. The parterre, the pool surround, the perennial meadow, and the mature heritage trees that we now actively maintain — the garden has become the most photographed part of the estate. It will outlast us by a generation.",
+    "stats": [
+      {
+        "value": "11 acres",
+        "label": "Estate scope"
+      },
+      {
+        "value": "5 years",
+        "label": "Phased installation"
+      },
+      {
+        "value": "Y8",
+        "label": "Stewardship relationship"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "Inherited a Greenwich estate that had been gardened poorly for two generations. The team developed a master plan that respected the original 1928 landscape, restored the heritage trees, and replanted the parterre with material that will mature into specimens. The garden has presence again.",
+      "name": "Mrs. C.",
+      "role": "Multi-generational estate owner",
+      "city": "Greenwich, CT"
+    },
+    {
+      "quote": "Manhattan-to-Greenwich first home and we knew nothing about gardens. The team educated us through a year-long master-plan process and delivered the most photographed garden in our circle. Worth every conversation.",
+      "name": "Marcus + Tasha L.",
+      "role": "Recent transplants",
+      "city": "Old Greenwich, CT"
+    },
+    {
+      "quote": "Hired the team alongside our residential architect on a new-build for the synergy between architecture and landscape. The garden was designed before the house broke ground and the relationship between the two is the strongest design decision we made on the project.",
+      "name": "Avery K., AIA",
+      "role": "Architect collaborator",
+      "city": "New Canaan, CT"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the minimum property size you work on?",
+      "a": "We accept projects of one acre and larger. Most engagements are between three and twenty acres. Smaller properties — particularly in-town village gardens — we refer to colleagues whose practices are designed for that scale and pricing structure."
+    },
+    {
+      "q": "What is the typical investment range for a master plan?",
+      "a": "Master planning runs $25,000 to $85,000 depending on property scope, complexity, and architect coordination required. Installation budgets follow phased multi-year schedules — typical first-year installations range $150,000 to $1.5M and ongoing stewardship is contracted annually."
+    },
+    {
+      "q": "Do you handle hardscape and structures?",
+      "a": "Yes — including stone terraces, pool surrounds, pergolas, garden walls, and water features. Construction documents stamped by our partner landscape architect when permitting requires. We coordinate with general contractors when major site work or grading is involved."
+    },
+    {
+      "q": "Are you available for short-term projects?",
+      "a": "We are not. Our practice is built around long-term garden relationships and master-planning at the estate scale. Single-season planting jobs and quick-turn projects are referred to colleagues whose practices are designed for that work."
+    },
+    {
+      "q": "Do you work with existing gardeners and stewardship crews?",
+      "a": "Frequently. Many of our clients have established relationships with crews who handle weekly maintenance and we layer over that with quarterly senior-horticulturist visits. Continuity with existing crews is often the right call — and we are honest when it is not."
+    },
+    {
+      "q": "How do you handle deer pressure?",
+      "a": "Substantially. Greenwich and Fairfield County have aggressive deer pressure that limits planting palettes and forces design choices around fencing, repellent rotation, and tolerant species selection. We design realistically — not aspirationally — around deer behavior on your specific property."
+    },
+    {
+      "q": "Can you coordinate with our architect or interior designer?",
+      "a": "Yes — and prefer to. Garden design is fundamentally a relationship between architecture, interior, and landscape. We work directly with architects (residential and landscape), interior designers, and pool consultants on integrated projects."
+    },
+    {
+      "q": "When should we begin if we want a 2026 installation?",
+      "a": "Now. Master planning runs four to eight months. Material sourcing for specimen plant material — particularly mature specimens — runs another three to six months. Quality estate gardens are not last-minute installations."
+    }
+  ],
+  "lead_magnet": {
+    "title": "The Greenwich Estate Garden Decision Guide",
+    "subtitle": "How to evaluate and engage a garden designer for a multi-year property project. 14 pages.",
+    "cta": "Get the guide →"
+  },
+  "photos": {
+    "hero": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=1920&auto=format&fit=crop&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1448630360428-65456885c650?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1418225043143-90858d2873bd?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1465400976293-2d9d2f8b7635?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1473093226795-af9932fe5856?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1416181830907-051f6e2bd1e3?w=1280&auto=format&fit=crop&q=80"
+    ]
+  },
+  "competitors": [
+    "https://www.rosaliasanni.com/",
+    "https://janiceparker.com/",
+    "https://greenwichgardendesign.com/",
+    "https://www.themateriagroup.com/",
+    "https://www.patmillerdesigns.com/"
+  ],
+  "anti_patterns": [
+    "Before/after sliders with messy before-yards",
+    "Generic Get a Free Quote forms",
+    "Lawn-care SEO copy — we mow, we edge"
+  ],
+  "modules": {
+    "booking_calendar": false,
+    "service_area_map": true,
+    "photo_gallery": true,
+    "faq": true,
+    "lead_magnet": true
+  },
+  "contact": {
+    "form_endpoint": "https://api.web3forms.com/submit",
+    "calendly_url": "https://calendly.com/skynetlabs-demo/15min"
+  },
+  "seo": {
+    "title": "Estate Garden Design Greenwich CT | Master Plans | SkynetLabs",
+    "description": "Estate garden design and master planning for Fairfield, Westchester, and Litchfield County. APLD-certified, ASLA member, Architectural Digest featured.",
+    "keywords": [
+      "garden designer greenwich ct",
+      "landscape architect fairfield county",
+      "estate garden design westchester",
+      "master plan landscape",
+      "naturalistic meadow design"
+    ],
+    "noindex": true
+  },
+  "demo_disclosure": {
+    "enabled": true,
+    "fiverr_cta_url": "https://www.fiverr.com/agencies/skynetjoellc?utm_source=demo&utm_campaign=landscaping",
+    "contact_cta_url": "https://skynetjoe.com/contact?utm_source=demo&utm_campaign=landscaping",
+    "portfolio_url": "https://skynetjoe.com/portfolio"
+  }
+}

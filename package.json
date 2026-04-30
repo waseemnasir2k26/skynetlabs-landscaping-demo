@@ -1,0 +1,56 @@
+{
+  "name": "skynetlabs-landscaping-demo",
+  "version": "1.0.0",
+  "private": false,
+  "license": "MIT",
+  "description": "SkynetLabs cinematic niche demo template — Next.js 14 + R3F + Tailwind. Fork to use.",
+  "author": "Waseem Nasir <waseembali2k26@gmail.com>",
+  "homepage": "https://skynetlabs-landscaping-demo.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/waseemnasir2k26/skynetlabs-landscaping-demo"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "validate-config": "node ../generator/validate-config.mjs site.config.json"
+  },
+  "engines": {
+    "node": ">=20.11.0"
+  },
+  "packageManager": "pnpm@9.12.0",
+  "dependencies": {
+    "@react-three/drei": "9.114.0",
+    "@react-three/fiber": "8.17.10",
+    "@vercel/og": "0.6.3",
+    "class-variance-authority": "0.7.0",
+    "clsx": "2.1.1",
+    "framer-motion": "11.5.6",
+    "lucide-react": "0.451.0",
+    "next": "14.2.15",
+    "next-themes": "0.3.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "tailwind-merge": "2.5.2",
+    "tailwindcss-animate": "1.0.7",
+    "three": "0.169.0",
+    "zod": "3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "20.16.5",
+    "@types/react": "18.3.11",
+    "@types/react-dom": "18.3.0",
+    "@types/three": "0.169.0",
+    "autoprefixer": "10.4.20",
+    "eslint": "8.57.1",
+    "eslint-config-next": "14.2.15",
+    "postcss": "8.4.47",
+    "prettier": "3.3.3",
+    "prettier-plugin-tailwindcss": "0.6.8",
+    "tailwindcss": "3.4.13",
+    "typescript": "5.5.4"
+  }
+}
